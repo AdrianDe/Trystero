@@ -1,0 +1,52 @@
+#heading{
+  display: inline-block;
+text-align: center;
+color: #000000;
+opacity: 0.7;
+font-size: 70px;
+font-family: "Forte Regular", sans-serif;
+
+}
+
+#d{
+  width: 100%;
+  margin:0;
+  padding:0;
+  float:left;
+ 
+}
+
+.heading img {
+  float: left;
+  width: 70%;
+  height: 300px;
+}
+
+.heading h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
+#v{
+    padding-top: 0px;
+    float: right;
+}
+
+#map{
+  width: 100%;
+}
+
+ul{
+  text-align: center;
+}
+
+li{
+  float: left;
+  text-align: center;
+  display: inline;
+  padding: 10px;
+  font-size: 20px;
+}
+
+
